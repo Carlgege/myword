@@ -1,0 +1,2 @@
+# myword
+public test
